@@ -1,0 +1,344 @@
+# Ce fichier viminfo a été généré par Vim 8.0.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Dernières chaînes de substitution :
+$
+
+# Historique ligne de commande (chronologie décroissante) :
+:q!
+|2,0,1511556072,,"q!"
+:w
+|2,0,1511556070,,"w"
+:wq
+|2,0,1511556067,,"wq"
+:terminal
+|2,0,1511555151,,"terminal"
+:set list
+|2,0,1511047083,,"set list"
+:e .vimrc
+|2,0,1505154189,,"e .vimrc"
+:NERDTree
+|2,0,1505154136,,"NERDTree"
+:NERDtree
+|2,0,1505154131,,"NERDtree"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+""1	LINE	0
+	git clone https://github.com/tpope/vim-pathogen.git
+|3,1,1,1,1,0,1511556065,"git clone https://github.com/tpope/vim-pathogen.git"
+"-	CHAR	0
+	:
+|3,0,36,0,1,0,1511047015,":"
+
+# Marques dans le fichier :
+'0  5  0  ~\install_vim.sh
+|4,48,5,0,1511556072,"~\\install_vim.sh"
+'1  1  0  ~\install_vim.sh
+|4,49,1,0,1511555988,"~\\install_vim.sh"
+'2  1  0  ~\install_vim.sh
+|4,50,1,0,1511555988,"~\\install_vim.sh"
+'3  1  0  ~\install_vim.sh
+|4,51,1,0,1511555977,"~\\install_vim.sh"
+'4  1  0  ~\install_vim.sh
+|4,52,1,0,1511555977,"~\\install_vim.sh"
+'5  13  42  ~\Dropbox\computer\install_vim.sh
+|4,53,13,42,1511555654,"~\\Dropbox\\computer\\install_vim.sh"
+'6  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,54,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+'7  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\start_ipython_osx.sh
+|4,55,1,0,1511378726,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\start_ipython_osx.sh"
+'8  1  0  ~\AppData\Local\nvim\init.vim
+|4,56,1,0,1511103743,"~\\AppData\\Local\\nvim\\init.vim"
+'9  1  0  ~\AppData\Local\nvim\rplugin.vim
+|4,57,1,0,1511103612,"~\\AppData\\Local\\nvim\\rplugin.vim"
+
+# Liste de sauts (le plus récent en premier) :
+-'  5  0  ~\install_vim.sh
+|4,39,5,0,1511556072,"~\\install_vim.sh"
+-'  1  0  ~\install_vim.sh
+|4,39,1,0,1511556056,"~\\install_vim.sh"
+-'  1  0  ~\install_vim.sh
+|4,39,1,0,1511555988,"~\\install_vim.sh"
+-'  1  0  ~\install_vim.sh
+|4,39,1,0,1511555977,"~\\install_vim.sh"
+-'  13  42  ~\Dropbox\computer\install_vim.sh
+|4,39,13,42,1511555654,"~\\Dropbox\\computer\\install_vim.sh"
+-'  13  42  ~\Dropbox\computer\install_vim.sh
+|4,39,13,42,1511555654,"~\\Dropbox\\computer\\install_vim.sh"
+-'  13  42  ~\Dropbox\computer\install_vim.sh
+|4,39,13,42,1511555654,"~\\Dropbox\\computer\\install_vim.sh"
+-'  13  42  ~\Dropbox\computer\install_vim.sh
+|4,39,13,42,1511555654,"~\\Dropbox\\computer\\install_vim.sh"
+-'  13  42  ~\Dropbox\computer\install_vim.sh
+|4,39,13,42,1511555654,"~\\Dropbox\\computer\\install_vim.sh"
+-'  13  42  ~\Dropbox\computer\install_vim.sh
+|4,39,13,42,1511555654,"~\\Dropbox\\computer\\install_vim.sh"
+-'  13  42  ~\Dropbox\computer\install_vim.sh
+|4,39,13,42,1511555654,"~\\Dropbox\\computer\\install_vim.sh"
+-'  13  42  ~\Dropbox\computer\install_vim.sh
+|4,39,13,42,1511555654,"~\\Dropbox\\computer\\install_vim.sh"
+-'  12  0  ~\Dropbox\computer\install_vim.sh
+|4,39,12,0,1511555519,"~\\Dropbox\\computer\\install_vim.sh"
+-'  12  0  ~\Dropbox\computer\install_vim.sh
+|4,39,12,0,1511555519,"~\\Dropbox\\computer\\install_vim.sh"
+-'  12  0  ~\Dropbox\computer\install_vim.sh
+|4,39,12,0,1511555519,"~\\Dropbox\\computer\\install_vim.sh"
+-'  12  0  ~\Dropbox\computer\install_vim.sh
+|4,39,12,0,1511555519,"~\\Dropbox\\computer\\install_vim.sh"
+-'  12  0  ~\Dropbox\computer\install_vim.sh
+|4,39,12,0,1511555519,"~\\Dropbox\\computer\\install_vim.sh"
+-'  12  0  ~\Dropbox\computer\install_vim.sh
+|4,39,12,0,1511555519,"~\\Dropbox\\computer\\install_vim.sh"
+-'  12  0  ~\Dropbox\computer\install_vim.sh
+|4,39,12,0,1511555519,"~\\Dropbox\\computer\\install_vim.sh"
+-'  12  0  ~\Dropbox\computer\install_vim.sh
+|4,39,12,0,1511555519,"~\\Dropbox\\computer\\install_vim.sh"
+-'  11  0  ~\Dropbox\computer\install_vim.sh
+|4,39,11,0,1511555461,"~\\Dropbox\\computer\\install_vim.sh"
+-'  11  0  ~\Dropbox\computer\install_vim.sh
+|4,39,11,0,1511555461,"~\\Dropbox\\computer\\install_vim.sh"
+-'  11  0  ~\Dropbox\computer\install_vim.sh
+|4,39,11,0,1511555461,"~\\Dropbox\\computer\\install_vim.sh"
+-'  11  0  ~\Dropbox\computer\install_vim.sh
+|4,39,11,0,1511555461,"~\\Dropbox\\computer\\install_vim.sh"
+-'  11  0  ~\Dropbox\computer\install_vim.sh
+|4,39,11,0,1511555461,"~\\Dropbox\\computer\\install_vim.sh"
+-'  11  0  ~\Dropbox\computer\install_vim.sh
+|4,39,11,0,1511555461,"~\\Dropbox\\computer\\install_vim.sh"
+-'  11  0  ~\Dropbox\computer\install_vim.sh
+|4,39,11,0,1511555461,"~\\Dropbox\\computer\\install_vim.sh"
+-'  11  0  ~\Dropbox\computer\install_vim.sh
+|4,39,11,0,1511555461,"~\\Dropbox\\computer\\install_vim.sh"
+-'  10  0  ~\Dropbox\computer\install_vim.sh
+|4,39,10,0,1511555437,"~\\Dropbox\\computer\\install_vim.sh"
+-'  10  0  ~\Dropbox\computer\install_vim.sh
+|4,39,10,0,1511555437,"~\\Dropbox\\computer\\install_vim.sh"
+-'  10  0  ~\Dropbox\computer\install_vim.sh
+|4,39,10,0,1511555437,"~\\Dropbox\\computer\\install_vim.sh"
+-'  10  0  ~\Dropbox\computer\install_vim.sh
+|4,39,10,0,1511555437,"~\\Dropbox\\computer\\install_vim.sh"
+-'  10  0  ~\Dropbox\computer\install_vim.sh
+|4,39,10,0,1511555437,"~\\Dropbox\\computer\\install_vim.sh"
+-'  10  0  ~\Dropbox\computer\install_vim.sh
+|4,39,10,0,1511555437,"~\\Dropbox\\computer\\install_vim.sh"
+-'  10  0  ~\Dropbox\computer\install_vim.sh
+|4,39,10,0,1511555437,"~\\Dropbox\\computer\\install_vim.sh"
+-'  10  0  ~\Dropbox\computer\install_vim.sh
+|4,39,10,0,1511555437,"~\\Dropbox\\computer\\install_vim.sh"
+-'  9  0  ~\Dropbox\computer\install_vim.sh
+|4,39,9,0,1511555411,"~\\Dropbox\\computer\\install_vim.sh"
+-'  9  0  ~\Dropbox\computer\install_vim.sh
+|4,39,9,0,1511555411,"~\\Dropbox\\computer\\install_vim.sh"
+-'  9  0  ~\Dropbox\computer\install_vim.sh
+|4,39,9,0,1511555411,"~\\Dropbox\\computer\\install_vim.sh"
+-'  9  0  ~\Dropbox\computer\install_vim.sh
+|4,39,9,0,1511555411,"~\\Dropbox\\computer\\install_vim.sh"
+-'  9  0  ~\Dropbox\computer\install_vim.sh
+|4,39,9,0,1511555411,"~\\Dropbox\\computer\\install_vim.sh"
+-'  9  0  ~\Dropbox\computer\install_vim.sh
+|4,39,9,0,1511555411,"~\\Dropbox\\computer\\install_vim.sh"
+-'  9  0  ~\Dropbox\computer\install_vim.sh
+|4,39,9,0,1511555411,"~\\Dropbox\\computer\\install_vim.sh"
+-'  9  0  ~\Dropbox\computer\install_vim.sh
+|4,39,9,0,1511555411,"~\\Dropbox\\computer\\install_vim.sh"
+-'  4  0  ~\Dropbox\computer\install_vim.sh
+|4,39,4,0,1511555362,"~\\Dropbox\\computer\\install_vim.sh"
+-'  4  0  ~\Dropbox\computer\install_vim.sh
+|4,39,4,0,1511555362,"~\\Dropbox\\computer\\install_vim.sh"
+-'  4  0  ~\Dropbox\computer\install_vim.sh
+|4,39,4,0,1511555362,"~\\Dropbox\\computer\\install_vim.sh"
+-'  4  0  ~\Dropbox\computer\install_vim.sh
+|4,39,4,0,1511555362,"~\\Dropbox\\computer\\install_vim.sh"
+-'  4  0  ~\Dropbox\computer\install_vim.sh
+|4,39,4,0,1511555362,"~\\Dropbox\\computer\\install_vim.sh"
+-'  4  0  ~\Dropbox\computer\install_vim.sh
+|4,39,4,0,1511555362,"~\\Dropbox\\computer\\install_vim.sh"
+-'  4  0  ~\Dropbox\computer\install_vim.sh
+|4,39,4,0,1511555362,"~\\Dropbox\\computer\\install_vim.sh"
+-'  4  0  ~\Dropbox\computer\install_vim.sh
+|4,39,4,0,1511555362,"~\\Dropbox\\computer\\install_vim.sh"
+-'  1  0  ~\Dropbox\computer\install_vim.sh
+|4,39,1,0,1511555266,"~\\Dropbox\\computer\\install_vim.sh"
+-'  1  0  ~\Dropbox\computer\install_vim.sh
+|4,39,1,0,1511555266,"~\\Dropbox\\computer\\install_vim.sh"
+-'  1  0  ~\Dropbox\computer\install_vim.sh
+|4,39,1,0,1511555266,"~\\Dropbox\\computer\\install_vim.sh"
+-'  1  0  ~\Dropbox\computer\install_vim.sh
+|4,39,1,0,1511555266,"~\\Dropbox\\computer\\install_vim.sh"
+-'  1  0  ~\Dropbox\computer\install_vim.sh
+|4,39,1,0,1511555266,"~\\Dropbox\\computer\\install_vim.sh"
+-'  1  0  ~\Dropbox\computer\install_vim.sh
+|4,39,1,0,1511555266,"~\\Dropbox\\computer\\install_vim.sh"
+-'  1  0  ~\Dropbox\computer\install_vim.sh
+|4,39,1,0,1511555266,"~\\Dropbox\\computer\\install_vim.sh"
+-'  1  0  ~\Dropbox\computer\install_vim.sh
+|4,39,1,0,1511555266,"~\\Dropbox\\computer\\install_vim.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+|4,39,1,0,1511378754,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\cs231n\\datasets\\get_datasets.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\start_ipython_osx.sh
+|4,39,1,0,1511378726,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\start_ipython_osx.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\start_ipython_osx.sh
+|4,39,1,0,1511378726,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\start_ipython_osx.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\start_ipython_osx.sh
+|4,39,1,0,1511378726,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\start_ipython_osx.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\start_ipython_osx.sh
+|4,39,1,0,1511378726,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\start_ipython_osx.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\start_ipython_osx.sh
+|4,39,1,0,1511378726,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\start_ipython_osx.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\start_ipython_osx.sh
+|4,39,1,0,1511378726,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\start_ipython_osx.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\start_ipython_osx.sh
+|4,39,1,0,1511378726,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\start_ipython_osx.sh"
+-'  1  0  ~\Documents\CS231n\spring1617_assignment1\assignment1\start_ipython_osx.sh
+|4,39,1,0,1511378726,"~\\Documents\\CS231n\\spring1617_assignment1\\assignment1\\start_ipython_osx.sh"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~\install_vim.sh
+	*	1511556070	0
+	"	5	0
+	^	5	67
+	.	5	0
+	+	5	0
+
+> ~\Dropbox\computer\install_vim.sh
+	*	1511555653	0
+	"	13	42
+	^	13	43
+	.	13	0
+	+	13	0
+
+> ~\Documents\CS231n\spring1617_assignment1\assignment1\cs231n\datasets\get_datasets.sh
+	*	1511378749	0
+	"	1	0
+
+> ~\Documents\CS231n\spring1617_assignment1\assignment1\start_ipython_osx.sh
+	*	1511378719	0
+	"	1	0
+
+> ~\AppData\Local\nvim\init.vim
+	*	1511103657	0
+	"	1	0
+	^	42	8
+	.	42	7
+	+	41	0
+	+	37	0
+	+	36	0
+	+	43	0
+	+	42	7
+
+> ~\AppData\Local\nvim\rplugin.vim
+	*	1511103609	0
+	"	1	0
+
+> ~\Dropbox\computer\Linux\vimdir\.vimrc
+	*	1506617261	0
+	"	29	0
+
+> ~\Projects\it-works\vendor\composer\autoload_classmap.php
+	*	1505513899	0
+	"	11	41
+	^	11	42
+	.	11	41
+	+	11	41
+
+> ~\Projects\it-works\src\ItWorksBundle\Resources\config\services.yml
+	*	1505513325	0
+	"	1	0
+
+> ~\Projects\it-works\app\config\config_dev.yml
+	*	1505513307	0
+	"	29	0
+
+> ~\Projects\it-works\app\config\config.yml
+	*	1505513277	0
+	"	33	0
+
+> ~\.vimrc
+	*	1505171175	0
+	"	1	0
+
+> ~\NERD_tree_1
+	*	1505154356	0
+	"	13	0
+	.	1	0
+	+	1	0
