@@ -17,6 +17,6 @@ set cursorline
 set list listchars=tab:→\ ,trail:·
 
 
-
+let g:ycm_python_binary_path = 'py'
 
 map <A-b> :NERDTreeToggle<CR>
